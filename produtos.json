@@ -1,0 +1,25 @@
+{
+  "contatos": [
+    {
+      "id": 1,
+      "nome": "a12",
+      "marca": "b12",
+      "modelo": "c12",
+      "preco": "d12"
+    },
+    {
+      "id": 2,
+      "nome": "a123",
+      "marca": "b123",
+      "modelo": "c123",
+      "preco": "d123"
+    },
+    {
+      "id": 3,
+      "nome": "a1234",
+      "marca": "b1234",
+      "modelo": "c1234",
+      "preco": "d1234"
+    }
+  ]
+}

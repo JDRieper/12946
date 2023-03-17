@@ -45,7 +45,7 @@ export default {
     },
     methods: {
         handleSubmitForm() {
-            let apiURL = 'http://localhost:3000/contatos'
+            let apiURL = 'http://localhost:3000/produtos'
 
             axios.post(apiURL, this.produto).then(() => {
                 alert('Produto registrado!!')

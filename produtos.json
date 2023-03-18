@@ -6,6 +6,20 @@
       "marca": "2",
       "modelo": "3",
       "preco": "4"
+    },
+    {
+      "id": 2,
+      "nome": "a",
+      "marca": "b",
+      "modelo": "c",
+      "preco": "d"
+    },
+    {
+      "id": 3,
+      "nome": "a1",
+      "marca": "b1",
+      "modelo": "c1",
+      "preco": "d1"
     }
   ]
 }
